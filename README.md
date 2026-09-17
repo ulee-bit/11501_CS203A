@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 基本資訊 (Information)
+##  基本資訊 (Information)
 
 | 項目 (Item) | 內容 (Details) |
 | :--- | :--- |
@@ -15,16 +15,16 @@
 
 ---
 
-## 📖 儲存庫說明 (Repository Description)
+##  儲存庫說明 (Repository Description)
 
 本儲存庫主要用於記錄與統整 **115-1 資料結構 (Data Structures)** 課程之所有學習內容，包含：
 
-- 📝 **課堂筆記與重點整理** (Lecture Notes)
-- 💻 **上機實作與隨堂練習** (Lab & In-Class Practices)
-- 📂 **作業與專案程式碼** (Assignments & Projects)
+-  **課堂筆記與重點整理** (Lecture Notes)
+-  **上機實作與隨堂練習** (Lab & In-Class Practices)
+-  **作業與專案程式碼** (Assignments & Projects)
 
 ---
 
-### 🛠️ 開發環境 (Environment)
+###  開發環境 (Environment)
 - **語言 (Language)**: C++
 - **版本控制 (Version Control)**: Git / GitHub
