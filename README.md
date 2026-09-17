@@ -10,7 +10,7 @@
 | :--- | :--- |
 | **課程名稱 (Course)** | 資料結構 (Data Structures) |
 | **課程代碼 (Course ID)** | 11501_CS203A |
-| **學生姓名 (Student Name)** | 王宥莉 (Your Name) |
+| **學生姓名 (Student Name)** | 王宥莉 |
 | **學生學號 (Student ID)** | 1141505 |
 
 ---
